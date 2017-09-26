@@ -2,7 +2,7 @@ package app
 
 import (
 	"net/http"
-	"gitlab.com/bawi/task-queue/handler"
+	"github.com/douglasfsti/task-queue/handler"
 )
 
 func init() {

@@ -7,7 +7,7 @@ import (
 	"html/template"
 	"net/http"
 
-	"gitlab.com/bawi/task-queue/controller"
+	"github.com/douglasfsti/task-queue/controller"
 )
 
 func Home(w http.ResponseWriter, r *http.Request) {

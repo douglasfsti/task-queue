@@ -8,7 +8,7 @@ import (
 	"time"
 	"fmt"
 	"golang.org/x/net/context"
-	"gitlab.com/bawi/task-queue/struct"
+	"github.com/douglasfsti/task-queue/struct"
 	"github.com/satori/go.uuid"
 )
 
